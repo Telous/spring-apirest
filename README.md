@@ -8,7 +8,7 @@ clone the repo
 git clone https://github.com/Telous/spring-apirest.git
 ```
 
-Navigate to the root project folder: /rest and run
+Navigate to the root project folder: /spring-apirest
 
 #### For unix based systems
 ```properties
